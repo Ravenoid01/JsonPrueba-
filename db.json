@@ -2,16 +2,18 @@
   "users":[
     {
       "id": 1,
-      "name": "lololex",
+      "name": "User 1",
       "deck": [2,6,200,700,801]
     },
     {
       "id": 2,
-      "title": "waroo"
+      "name": "User 2",
+      "deck": [1,13,45,303,415]
     },
     {
       "id": 3,
-      "title": "vathrix"
+      "name": "User 3",
+      "deck": [7,27,4,15,10]
     }
   ]
 }
